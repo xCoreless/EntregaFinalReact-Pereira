@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "set Haykyuu",
+        "image": "/images/set-Hk.jpg",
+        "description": "Set ambas manos haikyuu",
+        "category": "anime"
+           
+    },
+    {
+        "id": 2,
+        "name": "Set Kimetsu no Jaiba",
+        "image": "/images/set-Knj.jpg",
+        "description": "Set ambas manos Kimetsu no Jaiba",
+        "category": "anime"
+    
+    },
+    {
+        "id": 3,
+        "name": "Set Nana",
+        "image": "/images/set-Nana.jpg",
+        "description": "Set ambas manos Nana",
+        "category": "anime"
+    },
+    {
+        "id": 4,
+        "name": "Set Simple verde",
+        "image": "/images/set-Simple1.jpg",
+        "description": "Set ambas manos sin diseño de anime",
+        "category": "simple"
+    
+    },
+    {
+        "id": 5,
+        "name": "Set Simple azúl",
+        "image": "/images/set-Simple2.jpg",
+        "description": "Set ambas manos sin diseño de anime",
+        "category": "simple"
+    
+    },
+    {
+        "id": 6,
+        "name": "Set Simple joyas 1",
+        "image": "/images/set-Simple3.jpg",
+        "description": "Set ambas manos sin diseño de anime, con agregados brillantes simples",
+        "category": "simple"
+    
+    },
+    {
+        "id": 7,
+        "name": "Set Simple joyas 2",
+        "image": "/images/set-Simple4.jpg",
+        "description": "Set ambas manos sin diseño de anime, con agregados brillantes complejos",
+        "category": "simple"
+    
+    } 
+    
+]
